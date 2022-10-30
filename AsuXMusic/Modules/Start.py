@@ -81,7 +81,7 @@ async def gstart(_, message: Message):
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/Abishnoi69/AsuXMusic"
+                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/TeamYukki"
                 ),
             ],
         ]
