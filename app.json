@@ -1,10 +1,10 @@
 {
-  "name": "ᴀsᴜx ᴍᴜsɪᴄ",
+  "name": "KSK ᴍᴜsɪᴄ",
   "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
   "description": "A Fast & Powerful VC Player bot to play songs in Telegram Video Chat written in Python with the help of Pyrogram & PyTg-Calls.",
   "keywords": ["music", "voicechat", "python", "telegram-bot", "pyrogram", "telegram", "AsuX"],
   "repository": "https://github.com/Abishnoi69/AsuXMusic",
-  "stack": "heroku-20",
+  "stack": "container",
   "env": {
     "BOT_TOKEN": {
       "description": "ᴀ ʙᴏᴛ ᴛᴏᴋᴇɴ ғʀᴏᴍ @Botfather",
@@ -14,16 +14,16 @@
     "LOGGER_ID": {
       "description": "ᴄʜᴀᴛ ɪᴅ ᴏғ ᴀ ɢʀᴏᴜᴘ ᴡʜᴇʀᴇ ʏᴏᴜ'ʟʟ ɢᴇᴛ ᴛᴏ ᴋɴᴏᴡ ᴛʜᴀᴛ ʏᴏᴜʀ ʙᴏᴛ ɢᴏᴛ sᴛᴀʀᴛᴇᴅ  -1001376267876 .",
       "required": true,
-      "value": "-1001644049633"
+      "value": "-100........"
     },
     "OWNER_ID": {
       "description": "ʏᴏᴜʀ ᴛɢ ɪᴅ",
       "required": true,
-      "value": "2102097596"
+      "value": "........"
     },
     "MONGO_DB_URI": {
       "description": "ᴀ ᴍᴏɴɢᴏᴅʙ ᴄʟᴏᴜᴅ ᴅᴀᴛᴀʙᴀsᴇ ᴜʀʟ ғʀᴏᴍ cloud.mongodb.com",
-      "value": "mongodb+srv://kskop:kakujai253@cluster0.ew9p1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+      "value": "mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     },
     "STRING_SESSION": {
@@ -49,5 +49,5 @@
             "size": "free"
         }
     },
-    "stack": "heroku-20"
+    "stack": "container"
 }
