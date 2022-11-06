@@ -14,16 +14,16 @@
     "LOGGER_ID": {
       "description": "ᴄʜᴀᴛ ɪᴅ ᴏғ ᴀ ɢʀᴏᴜᴘ ᴡʜᴇʀᴇ ʏᴏᴜ'ʟʟ ɢᴇᴛ ᴛᴏ ᴋɴᴏᴡ ᴛʜᴀᴛ ʏᴏᴜʀ ʙᴏᴛ ɢᴏᴛ sᴛᴀʀᴛᴇᴅ  -1001376267876 .",
       "required": true,
-      "value": "-100........"
+      "value": "-1001644049633"
     },
     "OWNER_ID": {
       "description": "ʏᴏᴜʀ ᴛɢ ɪᴅ",
       "required": true,
-      "value": "........"
+      "value": "2102097596"
     },
     "MONGO_DB_URI": {
       "description": "ᴀ ᴍᴏɴɢᴏᴅʙ ᴄʟᴏᴜᴅ ᴅᴀᴛᴀʙᴀsᴇ ᴜʀʟ ғʀᴏᴍ cloud.mongodb.com",
-      "value": "mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority",
+      "value": "mongodb+srv://kskop:kakujai253@cluster0.ew9p1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
       "required": true
     },
     "STRING_SESSION": {
