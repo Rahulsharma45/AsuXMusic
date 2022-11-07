@@ -11,7 +11,7 @@ ping_ig = InlineKeyboardMarkup(
                 ),
                 InlineKeyboardButton(
                     text="sᴏᴜʀᴄᴇ",
-                    url="https://github.com/Abishnoi69/AsuXMusic"
+                    url="https://github.com/TeamYukki"
                 )
             ]
         ]
