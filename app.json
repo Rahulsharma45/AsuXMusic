@@ -4,7 +4,14 @@
   "description": "A Fast & Powerful VC Player bot to play songs in Telegram Video Chat written in Python with the help of Pyrogram & PyTg-Calls.",
   "keywords": ["music", "voicechat", "python", "telegram-bot", "pyrogram", "telegram", "AsuX"],
   "repository": "https://github.com/Abishnoi69/AsuXMusic",
-  "stack": "container",
+  "addons": [
+      {
+         "options": {
+            "version": "12"
+         },
+         "plan": "heroku-postgresql"
+      }
+   ],
   "env": {
     "BOT_TOKEN": {
       "description": "ᴀ ʙᴏᴛ ᴛᴏᴋᴇɴ ғʀᴏᴍ @Botfather",
